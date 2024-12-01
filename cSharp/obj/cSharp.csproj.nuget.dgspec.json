@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/farah/code/adventofcode24/adventofcode24.csproj": {}
+    "/Users/farah/code/adventofcode24/cSharp/cSharp.csproj": {}
   },
   "projects": {
-    "/Users/farah/code/adventofcode24/adventofcode24.csproj": {
+    "/Users/farah/code/adventofcode24/cSharp/cSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/farah/code/adventofcode24/adventofcode24.csproj",
-        "projectName": "adventofcode24",
-        "projectPath": "/Users/farah/code/adventofcode24/adventofcode24.csproj",
+        "projectUniqueName": "/Users/farah/code/adventofcode24/cSharp/cSharp.csproj",
+        "projectName": "cSharp",
+        "projectPath": "/Users/farah/code/adventofcode24/cSharp/cSharp.csproj",
         "packagesPath": "/Users/farah/.nuget/packages/",
-        "outputPath": "/Users/farah/code/adventofcode24/obj/",
+        "outputPath": "/Users/farah/code/adventofcode24/cSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/farah/.nuget/NuGet/NuGet.Config"
