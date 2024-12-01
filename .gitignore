@@ -1,0 +1,3 @@
+# Ignore bin and obj folders in cSharp
+cSharp/bin/
+cSharp/obj/
