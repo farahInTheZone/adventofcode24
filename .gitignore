@@ -2,4 +2,4 @@
 cSharp/bin/
 cSharp/obj/
 
-rust/tartget/*
+rust/target/*
